@@ -8,7 +8,13 @@
 ## 토크나이저 및 전처리
 
 
+
 ## Pretrained Model
 
+* [SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)
+* [SKT-AI/KoBART](https://github.com/SKT-AI/KoBART)
+* [gyunggyung/KoGPT2-FineTuning](https://github.com/gyunggyung/KoGPT2-FineTuning)
 
-
+* Hugging Face Models
+    * [monologg/kobert](https://github.com/monologg/KoBERT-Transformers)
+    * [monologg/koelectra](https://github.com/monologg/KoELECTRA)
